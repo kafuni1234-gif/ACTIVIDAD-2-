@@ -90,10 +90,11 @@ Esta actividad permite desarrollar habilidades básicas en el manejo de Git y Gi
 
 ---
 
-**Autor:** [Escribe tu nombre completo]
+**Autor:** KAREN LIZETH FULA NIETO 
 
-**Asignatura:** [Nombre de la asignatura]
+**Asignatura:** INTRODUCCION A LA CIENCIA DE DATOS 
 
 **Institución:** Fundación Universitaria Agraria de Colombia (UNIAGRARIA)
 
-**Fecha:** [Fecha de entrega]
+**Fecha:** 14 DE OCTUBRE 2026
+
